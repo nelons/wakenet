@@ -1,0 +1,9 @@
+weight: 5
+title: "Link to Active Directory"
+description: >
+  <ul class="list-style-none">
+    <li>Link to Active Directory groups</li>
+    <li>Manage the groups solely through AD tools</li>
+    <li>Wake up the AD groups in one go !</li>
+  </ul>
+image: "img/carousel/adsearch.png"

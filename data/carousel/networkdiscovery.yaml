@@ -1,0 +1,9 @@
+weight: 6
+title: "Network Discovert"
+description: >
+  <ul class="list-style-none">
+    <li>Find powered on devices on your network</li>
+    <li>Automatically discovers MAC and DNS information</li>
+    <li>Add as devices and optionally to a group</li>
+  </ul>
+image: "img/carousel/networkdiscovery.png"

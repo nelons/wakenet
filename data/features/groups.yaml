@@ -1,0 +1,5 @@
+weight: 2
+name: "Groups"
+icon: "fas fa-layer-group"
+url: ""
+description: "Store your networked devices in groups to wake them all at once."

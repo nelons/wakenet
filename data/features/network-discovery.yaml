@@ -1,0 +1,5 @@
+weight: 5
+name: "Network Discovery (Premium)"
+icon: "fas fa-network-wired"
+url: ""
+description: "No need to know MAC addresses - automatically discover and add powered-on devices on your local network."

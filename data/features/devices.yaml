@@ -1,0 +1,5 @@
+weight: 1
+name: "Devices"
+icon: "fas fa-power-off"
+url: ""
+description: "Wake up your network devices with a single click."

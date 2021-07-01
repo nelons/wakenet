@@ -1,0 +1,9 @@
+weight: 2
+title: "Organise your devices into Groups"
+description: >
+  <ul class="list-style-none">
+    <li>Member status</li>
+    <li>Wake up the whole group at once</li>
+    <li>Link to Active Directory groups</li>
+  </ul>
+image: "img/carousel/groups.png"

@@ -1,0 +1,9 @@
+weight: 3
+title: "Full Audit"
+description: >
+  <ul class="list-style-none">
+    <li>Track application actions</li>
+    <li>When devices come online</li>
+    <li>When devices go offline</li>
+  </ul>
+image: "img/carousel/history.png"

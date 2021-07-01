@@ -1,0 +1,10 @@
+weight: 1
+title: "See your devices"
+description: >
+  <ul class="list-style-none">
+    <li>Online Status</li>
+    <li>Resolved DNS addresses</li>
+    <li>IP address</li>
+    <li>MAC address</li>
+  </ul>
+image: "img/carousel/devices.png"

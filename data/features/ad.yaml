@@ -1,0 +1,5 @@
+weight: 4
+name: "Active Directory (Premium)"
+icon: "fas fa-audio-description"
+url: ""
+description: "Integrates with Active Directory to retrieve group information."
