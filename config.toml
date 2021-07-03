@@ -6,6 +6,9 @@ languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "G-ZXQE4SYH7P"
+
 [menu]
 
 # Main menu
