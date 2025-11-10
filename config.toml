@@ -37,8 +37,8 @@ googleAnalytics = "G-ZXQE4SYH7P"
 
     site_title = "Waking Up the Network"
 
-    formspree_action = "https://formspree.io/f/mqkwldwv"
-    contact_form_ajax = false
+#    formspree_action = "https://formspree.io/f/mqkwldwv"
+#    contact_form_ajax = false
 
 [params.testimonials]
     enable = true
@@ -64,6 +64,6 @@ googleAnalytics = "G-ZXQE4SYH7P"
     subtitle = "A Windows application that sends Wake-On-LAN packets (sometimes known as magic packets) to the MAC addresses of devices to turn them on. The application allows devices to be organised into groups so they can all be woken up at once."
     subtitle2 = "The application is only available via the Windows Store, and an add-on is available that enables the features to allow for Network Discovery and Active Directory integration. These features save time - run Network Discovery when the devices are turned on and immediately import them into the application. Or organise domain-joined computers into an Active Directory group and import the group into the application so all can be awoken at the same time."
 
-[params.contact]
-    content = "Send us a message with your questions, thoughts or feedback !"
-    icon = "far fa-envelope"
+#[params.contact]
+#    content = "Send us a message with your questions, thoughts or feedback !"
+#    icon = "far fa-envelope"
